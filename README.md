@@ -1,10 +1,10 @@
 # DJS08 Project Brief: React Router 
 
-🎥 INSERT LOOM PRESENTATION LINK: [Here]
+🎥 INSERT LOOM PRESENTATION LINK: [https://www.loom.com/share/866f517a688d4d5fa2ad15ee209a375f?sid=b4135ea0-8c45-4824-aa34-98a42800da5d]
 
 After cloning the repo, run `npm install` to install the dependencies 
 
-Are you ready to get stuck into some React Router? For this challenge, you are required to code along with the lecturer from this lesson on Scrimba V1 [VanLife Project Bootstrapping](https://v1.scrimba.com/learn/reactintroduction-to-react-router-6-coafa4877a450245212825034) or on Scrimba V2 click the link here [VanLife Project Bootstrapping](https://v2.scrimba.com/advanced-react-c02h/~02d)
+Are you ready to get stuck into some React Router? For this challenge, you are required to code along with the lecturer from this lesson on Scrimba V1 [VanLife Project Bootstrapping](https://v1.scrimba.com/learn/react/introduction-to-react-router-6-coafa4877a450245212825034) or on Scrimba V2 click the link here [VanLife Project Bootstrapping](https://v2.scrimba.com/advanced-react-c02h/~02d)
 
 The starter code has all the CSS styling required for the project; you will just need to link the corresponding classes as you code along. Jump into the start code here: [GitHub Repository](https://github.com/CodeSpace-Academy/StudentNo_Classcode_Group_Name-Surname_DJS08/tree/main).
 
